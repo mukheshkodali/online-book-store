@@ -1,0 +1,16 @@
+p.left
+{
+	text-align:left;
+	color:red;
+	text-decoration:overline;
+	font-family:tahoma;
+	font-size:20pt;
+}
+p.center
+{
+	color:green;
+	text-align:center;
+	text-decoration:underline;
+	font-family:calibri;
+	font-size:30pt;
+}
